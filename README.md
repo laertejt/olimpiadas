@@ -10,4 +10,5 @@ Conceitos fornecidos durante a matéria Pensamento Computacional do 1o.Semestre 
 ## Professor
 Laerte Jun Takeuti, MSC \
 email: laerte.takeuti@professores.ibmec.edu.br \
-site: https://www.linkedin.com/in/laertejt/
+linkedin: https://www.linkedin.com/in/laertejt/ \
+site: https://laboratoriodefinancas.com \
